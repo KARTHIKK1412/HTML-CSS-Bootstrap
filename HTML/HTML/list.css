@@ -1,0 +1,27 @@
+ol
+{
+    color:blue;
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+}
+ul
+{
+    text-transform: capitalize;
+    list-style-type:lower-greek;
+}
+.ggg
+{
+    background-color: aqua;
+    color:blueviolet;
+    height: 100px;width: 100px;
+    border-radius: 100px;
+    border-style:double;
+}
+.hhh
+{
+color:green;
+text-align: right;
+background-color: aqua;
+
+
+}

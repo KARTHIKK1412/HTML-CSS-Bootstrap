@@ -1,0 +1,13 @@
+.bg-container
+{
+    background-image: url("bmw1.webp");
+    height: 500px;
+    width: 500px;
+}
+
+.tour-card
+{
+    border-radius: 10px;
+    border: 6px solid rgb(174, 255, 0);
+    text-align: center;
+}

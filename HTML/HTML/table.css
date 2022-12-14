@@ -1,0 +1,14 @@
+table,th,tr,td
+{
+    border:10px solid blue;
+    background-color: orange;
+    color:brown;
+    empty-cells: show;
+    border-radius:12px;
+    padding:5px;
+    border-spacing: 20px;
+    border-collapse:separate;
+    table-layout: fixed;
+    height: 50px;
+    width: 100px;    
+}

@@ -1,0 +1,40 @@
+.d1
+{
+  background-image: url("bmw1.webp");
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 300px;
+  background-size: 300px 300px;
+  padding-top: 269px;
+  padding-left: 100px;
+}
+
+.d2
+{
+  background-image: url("bmw2.webp");
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 300px;
+  background-size: 300px 300px;
+  padding-top: 269px;
+  padding-left: 100px;
+}
+
+.d3
+{
+  background-image: url("bmw3.webp");
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 300px;
+  background-size: 300px 300px;
+  padding-top: 269px;
+  padding-left: 100px;
+}
+.d4
+{
+    background-color:black;
+}
+.col
+{
+    color:white;
+}

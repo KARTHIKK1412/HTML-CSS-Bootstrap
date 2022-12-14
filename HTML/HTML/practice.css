@@ -1,0 +1,18 @@
+div
+{
+    text-align:center;
+    color:red;
+    text-transform:uppercase;
+    text-decoration: double;
+    text-shadow: 5px 1px orange;
+}
+.john
+{
+    text-align: left;
+    color:black;    
+}
+.ph
+{
+    text-align: left;
+    color:midnightblue;
+}

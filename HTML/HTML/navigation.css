@@ -1,0 +1,21 @@
+div
+{
+    background-color:black;
+    padding: 30px;
+}
+a:link
+{
+    color:blueviolet;
+}
+a:visited
+{
+    color:magenta;
+}
+a:active
+{
+    color:green;
+}
+a:hover
+{
+    color:blue;
+}

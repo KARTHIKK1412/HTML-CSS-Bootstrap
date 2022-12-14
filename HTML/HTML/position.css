@@ -1,0 +1,25 @@
+.d1
+{
+    height:400px;
+    width: 400px;
+    background-image:url("winter.jpg");
+    background-repeat:no-repeat;
+}
+.d2
+{
+    position:absolute;
+    height: 400px;
+    width: 400px;
+    background-color:blueviolet;
+    top: 200px;
+    left: 200px;
+    z-index:-1;
+}
+/*h1
+{
+    position:absolute;
+    top: 40px;
+    left: 35px;
+    right: 40px;
+    bottom: 35px;
+}
