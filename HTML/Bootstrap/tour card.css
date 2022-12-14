@@ -1,0 +1,25 @@
+.bgcontainer
+{
+    background-image:url("rainy.jpg");
+    height: 400px;
+    width: 600px;
+
+}
+.tour-card
+{
+    border-radius: 10px;
+    border:6px solid steelblue;
+    text-align:center;
+}
+.bg1
+{
+    background-image:url("summer.jpg");
+    height: 500px;
+    width: 600px;
+}
+.tour-card1
+{
+    border-radius: 10px;
+    border:1px solid steelblue;
+    text-align:center;
+}

@@ -1,0 +1,19 @@
+/* p:first-child
+{
+    color:lightgray;
+} */
+
+/* li:first-child
+{
+    background-color: blueviolet;
+} */
+
+ol>:first-child
+{
+    background-color: mediumturquoise;
+}
+
+ol>:last-child
+{
+    background-color:darkorchid;
+}

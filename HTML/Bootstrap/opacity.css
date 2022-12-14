@@ -1,0 +1,19 @@
+.container1
+{
+    height: 400px;
+    width: 600px;
+    border: 4px solid green;
+    border-radius:100px;
+    background-color:lightpink;
+    /* opacity:0.4; */
+    margin-left:30px;
+    margin-top: 20px;
+}
+img
+{
+    height: 350px;
+    width: 550px;
+    padding-left: 40px;
+    padding-top: 25px;
+    opacity:0.5;    
+}

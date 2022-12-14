@@ -1,0 +1,11 @@
+h1::first-letter
+{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: blueviolet;
+    color:blue;
+}
+h1::first-line
+{
+ color:red;
+}
